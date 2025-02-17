@@ -30,8 +30,59 @@ let stringconvert=String(num)
 console.log(num);//3
 console.log(stringconvert);///3
 
+// ******************************* Operations ***************************** \\
+
+let value6=3
+let negValue=-value6
+console.log(negValue);////-3
+
+ console.log(2+2);
+ console.log(2-2);
+ console.log(2*2);
+ console.log(2**3);
+ console.log(2/2);
+ console.log(2%2);
+ 
+ let str1="hello"
+ let str2=" devlopers"
+ console.log(str1+str2);
+ 
+ console.log("1"+2);12
+ console.log(1+"2");12
+ console.log("1"+2+3);//123/ "1"
+ console.log(1+2+"3");//33 last hai to add hai
+ 
+ console.log(+true);//1
+
+ console.log(true+"");//true
+
+ console.log(+"");//0
+
+ let n1,n2,n3
+ n1=n2=n3=3+3
+ console.log(n1);// 6
+
+ let gameCounter=100
+ gameCounter++
+ console.log(gameCounter);//101
 
 
+ let gamecount=100
+ ++gamecount
+ console.log(gamecount);//101  link 👇👇👇 more information
+ 
+ // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
 
 
 
