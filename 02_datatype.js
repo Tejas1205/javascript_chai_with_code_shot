@@ -1,5 +1,5 @@
 
-//this are premative data type
+//this are primitive data type
 let a=1
 let b=BigInt
 let c="string"
