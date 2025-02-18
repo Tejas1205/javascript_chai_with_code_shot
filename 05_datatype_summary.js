@@ -40,3 +40,31 @@ const myfun =function(){ // datatype - function
 }
 console.log(typeof location);
 console.log(typeof furit);
+
+// ======================================
+
+let myYoutubename="hiteshchoudhrydotcom"
+
+let anothername= myYoutubename
+
+anothername="chaiwithcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let userOne={
+    email :"username@gmail.com",
+    city:"pune"
+}
+
+let userTwo=userOne
+
+userTwo.email="tejas@gmail.com"
+
+console.log(userOne);
+console.log(userTwo);
+
+
+
+
