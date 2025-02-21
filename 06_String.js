@@ -26,7 +26,7 @@ console.log(newStrinOne);
 console.log(newStrinOne.trim())
 
 
-const url="https://tejas.com.tejas%20"
+const url="https://-tejas.com.-tejas%20"
 
 console.log(url.replace("%20",'-'));
 
